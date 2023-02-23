@@ -1,0 +1,23 @@
+[
+  {
+    "user": "Jane Doe",
+    "category": "Movies",
+    "message": "feafe",
+    "type": "Push Notification",
+    "time": "2023-02-23T15:08:37.466Z"
+  },
+  {
+    "user": "Jane Doe",
+    "category": "Movies",
+    "message": "feafe",
+    "type": "E-Mail",
+    "time": "2023-02-23T15:08:37.467Z"
+  },
+  {
+    "user": "Alpha User",
+    "category": "Movies",
+    "message": "feafe",
+    "type": "E-Mail",
+    "time": "2023-02-23T15:08:37.468Z"
+  }
+]

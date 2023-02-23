@@ -1,0 +1,9 @@
+To run this project, please follow these steps:
+
+1. Go to backend folder => open terminal here => run "npm install" => run "npm start" => Server should be running no the port 3001 now
+
+2. Go to frontend folder => open terminal there => run "npm install" => run "npm start" => Go to browser and test the app on port 3000
+
+Lemme know if there is any doubt or questions regarding running the app.
+
+Thanks
