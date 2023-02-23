@@ -2,22 +2,22 @@
   {
     "user": "Jane Doe",
     "category": "Movies",
-    "message": "feafe",
+    "message": "right",
     "type": "Push Notification",
-    "time": "2023-02-23T15:08:37.466Z"
+    "time": "2023-02-23T11:42:22.213Z"
   },
   {
     "user": "Jane Doe",
     "category": "Movies",
-    "message": "feafe",
+    "message": "right",
     "type": "E-Mail",
-    "time": "2023-02-23T15:08:37.467Z"
+    "time": "2023-02-23T11:42:22.213Z"
   },
   {
     "user": "Alpha User",
     "category": "Movies",
-    "message": "feafe",
+    "message": "right",
     "type": "E-Mail",
-    "time": "2023-02-23T15:08:37.468Z"
+    "time": "2023-02-23T11:42:22.214Z"
   }
 ]
